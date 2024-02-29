@@ -12,7 +12,7 @@ San Agustín de Guadalix
 
 EXPERIENCIA PROFESIONAL:
 
-Administrador/a de sistemas Linux y Base de Datos.
+Administrador/a de sistemas Linux y Base de Datos
 El sector de la empresa es Industria aeroespacial y aviación
 Nombre de la empresa Cliente es AENA SME. S.A.
 ( fecha inicio Junio 2022 - Actualmente )
@@ -60,7 +60,7 @@ Mayo 2021 – Febrero 2022 (10 meses)
 Analista, integradora de sistemas trabajando con sistemas Linux, Web Servers (Tomcat), servidores virtuales con acceso a través de Citrix, Bases de datos nivel DBA, Oracle, muy SQL. 
 Trabajando con Eclipse, Dólar Universe, scripts, Shell Bash, Ansible, Jira
 
- 		Analista de sistemas
+Analista de sistemas
 IBM (Cliente Banco Santander) (Equipos informáticos)
 Febrero 2017 - Marzo 2021 (4 años y 1 mes)
 Analista de sistemas en cliente Banco Santander, departamento de factoría de pagos, área de negocios globales, especialista en Infraestructuras y aplicaciones Java/J2EE soportadas sobre servidores GNU/Linux y en cluster. 
@@ -83,7 +83,7 @@ Administrador Was /Jboss, entornos WebSphere, nivel 3, realizando las siguientes
 -Javascript (JMeter, Wsadmin, JACL o Jython). -Vmware. -Citrix. -Unix, Linux. -Siebel 6, Siebel 8.Tecnologias:
 Unix Citrix WebSphere VMware
 
- 		Administrador Middleware Apache /Jboss
+Administrador Middleware Apache /Jboss
 HEWLETT-PACKARD (HP), cliente Carrefour. (Programación, Consultoria y otras Activ. informaticas)
 Julio 2015 - Agosto 2015 (1 mes)
 Administrador Middleware en entornos web apache y Tomcat realizando las siguientes funciones : 
@@ -112,7 +112,7 @@ Experiencia con virtualización en proyecto Cloud y VMWare : análisis, diseño 
 • Configuración e instalación de chasis HP C7000
 Windows Unix Linux VMware
 
- 		Administrador de sistemas Sun Solaris y Red Hat .
+Administrador de sistemas Sun Solaris y Red Hat 
 BPR(cliente TELEFÓNICA) (Programación, Consultoria y otras Activ. informaticas)
 Septiembre 2010 - Mayo 2013 (2 años y 8 meses)
 Administrador de sistemas sobre plataformas Linux ( Red Hat ) y Sun Solaris en departamento de servidores virtuales F5 BIGIP, servidores de tráfico de carga de red,alta disponibilidad. 
@@ -134,7 +134,7 @@ Programas para la visualización de servicio y escalado de incidencias:
 - -Lotus Notes ( correo entre grupos internos de Telefónica)
 - Entorno Tecnológico: • F5 BIGIP • Vmware • IBM Blade • Sistemas Sun Solaris 8, 9 y 10 • Sistemas Linux Red Hat 9 • Sistemas Windows Server 2000-2003
 
-Administrador Linux en servidores Web Apache .
+Administrador Linux en servidores Web Apache
 (HEWLETT-PACKARD (HP), (cliente TELEFÓNICA ) (Programación, Consultoria y otras Activ. informaticas)
 Mayo 2009 - Abril 2010 (11 meses)
 Trabajando como administrador en servidores Web Apache sobre plataforma Linux, realizando pruebas del servicio y resolución de incidencias de 2º/3nivel con los siguientes tipos de servidores:
@@ -184,7 +184,7 @@ Proxy-Web (GSRS) SCRT (Establecimiento de comunicación con los Departamentos qu
 CURSOR-Tarantella(Sistema de acceso a aplicaciones gráficas y de clientes pesados (Equivalente a Cytrix pero adaptada a entorno UNIX) Sistemas: OPTIMA, SGT, TEMIP
 
 
-Técnico de Unix y Oracle Control_M, HP OVO.Remedy + scripts de arranque y parada sobre máquinas Unix.
+Técnico de Unix y Oracle Control_M, HP OVO.Remedy + scripts de arranque y parada sobre máquinas Unix
 CGI (cliente VODAFONE ) Diciembre 2007 - Junio 2008 (6 meses)
 Trabajando como técnico en Unix y Oracle. 
 Programas: -Control_ M - Shell en UNIX -HP OpenView Operations , consola central de eventos de HP OpenView(OVO).
@@ -193,10 +193,7 @@ Plataforma BMC Remedy (gestión de tickets ) -Scripts de arranque y parada sobre
 -Manejo de Herramientas de Office y correo electrónico (Lotus Notes / Outlook).
 
 
-
-
-
-Técnico / administrador SOLARIS, Unix.
+Técnico / administrador SOLARIS, Unix
 SOLKIA GROUP ( INDRA ) 
 Marzo 2007 - Noviembre 2007 (8 meses)
 Técnico / administrador SOLARIS, Unix, NT, Ofimática, herramientas de gestión y control de la producción /Planificadores de Procesos. 
@@ -269,7 +266,7 @@ Realizando en el Banco Español de Crédito las funciones:
 -manejo de los robots IBM 3494 Virtual Tape Server, lanzamiento de operaciones continuas de petición volumen insert/Eject (insertar/extaer) soportes magnéticos en la biblioteca de robot.
 
 Estudios:
-BTO		Bachillerato
+BTO-Bachillerato
 Instituto Alameda de Osuna
 Octubre 1989 - Diciembre 1990 (1 año y 2 meses)
 
