@@ -13,7 +13,6 @@ San Agustín de Guadalix
 EXPERIENCIA PROFESIONAL:
 
 ADMINISTRADORA DE SISTEMAS LINUX Y BBDD.
-
 El sector de la empresa es Industria aeroespacial y aviación
 Nombre de la empresa Cliente es AENA SME. S.A.
 ( fecha inicio Junio 2022 - Actualmente )
@@ -55,12 +54,14 @@ Ansible
 Jenkins
 
 
+
 ANALISTA DE SISTEMAS
 
 Atos - Iberia (Cliente: PSA Peugeot - Grupo Stellantis ) (Banca)
 Mayo 2021 – Febrero 2022 (10 meses)
 Analista, integradora de sistemas trabajando con sistemas Linux, Web Servers (Tomcat), servidores virtuales con acceso a través de Citrix, Bases de datos nivel DBA, Oracle, muy SQL. 
 Trabajando con Eclipse, Dólar Universe, scripts, Shell Bash, Ansible, Jira
+
 
 ANALISTA DE SISTEMAS
 
@@ -70,12 +71,14 @@ Analista de sistemas en cliente Banco Santander, departamento de factoría de pa
 Bases de datos, Oracle, MYSQL. Experiencia en aplicaciones de pagos y fondos entre cuentas, administración de aplicaciones internas ubicada en New York y productos en sistemas Polaris con desarrollo en la India, perfil orientado en Java/ J2EE, servidores Websphere v8.5.5.19, ,bases de datos, Oracle V9 , V12, MySQL Mejora y nivelación de entornos: Desarrollo, Preproducción y Producción., despliegue inicial y actualización de aplicaciones, tareas de análisis y tunning de recursos y configuración JDBC JMS/MQ.
 
 
+
 ANALISTA/ADMINISTRADORA DE SISTEMAS
 
 Telefónica (Telecomunicaciones)
 Abril 2016 - Enero 2017 (9 meses)
 Administrador / técnico senior de explotación de aplicaciones, nivel 3. Soluciones y mejoras a conexiones de red y redes externas e internas. Trabajando en Telefónica fija departamento Soporte GA ( Gerencia de Aplicaciones) Sistemas utilizados: Unix ( Sun Solaris,HP/UX ), sistemas Mainframe/Host, Oracle S.Q.L. , Programas de administración en BBDD (Sql-Developer, Sql-Navigator, Sql-plus, Toad.) Aplicaciones acceso a través de Citrix. Scripting ( automatización de tareas en menús de opciones y alarmas, shell de Unix ).Tecnologías:
 Host Unix Citrix Oracle virtual server SQL*Plus Toad Bases de datos Sql navigator SQL
+
 
 ADMINISTRADORA WEBSPHERE SERVIDORES DE APLICACIONES (WAS)
 
@@ -87,6 +90,7 @@ Administrador Was /Jboss, entornos WebSphere, nivel 3, realizando las siguientes
 -Despliegues de entornos Was en Int/Pre/ Pro. -Stop/start entornos Int/Pre/Pro -Borrado de filesystems. -Visualización de alarmas con Sitescope, AppDinamics. 
 -Javascript (JMeter, Wsadmin, JACL o Jython). -Vmware. -Citrix. -Unix, Linux. -Siebel 6, Siebel 8.Tecnologias:
 Unix Citrix WebSphere VMware
+
 
 ADMINISTRADORA MIDDLEWARE APACHE/JBOSS
 
@@ -101,6 +105,7 @@ Administrador Middleware en entornos web apache y Tomcat realizando las siguient
 Tecnologias:
 Elaboración de informes Seguridad Análisis SSL Archivos Aplicaciones Web Apache Middleware Gestión FTP Administración Tomcat
 
+ 
  ADMINISTRADORA DE SISTEMAS UNIX,LINUX,SUN SOLARIS
  
  Siemens (Febrero 2015 - Julio 2015 (5 meses)
@@ -109,6 +114,7 @@ Realizando pruebas del servicio y resolución de incidencias de 3º nivel en gru
 Conocimientos de productos Opensource ( Apache, Postfix, Qmail ). Tecnologías cluster para entornos Unix/Linux(Serviguard, Red-Hat cluster, Heartbeat) Administración de hardware ( servidores, switches de fibra, Racks, Chassis de Blade) Instalación, configuración y administración de SSOO. Seguridad (creación, mantenimiento y gestión de cuentas de acceso a los sistemas) Administración de espacio en disco ( asignación, monitorización y alarmas ). Instalación, adaptación y pruebas de parches. Implantación de planes de contingencia, (BRS). Itil.
 Tecnologias:
 Sun Unix Solaris Apache Pruebas Administración Seguridad Debian Gestión de cuentas HP-UX Unix (AIX) Mantenimiento VMware Clúster Linux
+
 
 ADMINISTRADORA DE SISTEMAS VMWARE ENTORNOS PRODUCCIÓN
 
