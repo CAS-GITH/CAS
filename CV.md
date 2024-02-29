@@ -11,6 +11,7 @@ San Agustín de Guadalix
 28710(Madrid)
 
 EXPERIENCIA PROFESIONAL:
+
 Administrador/a de sistemas Linux y Base de Datos.
 El sector de la empresa es Industria aeroespacial y aviación
 Nombre de la empresa Cliente es AENA SME. S.A.
