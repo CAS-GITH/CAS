@@ -1,7 +1,11 @@
 DATOS PERSONALES:
+
 CRISTINA AYLAGAS SANCHIS
+
 Teléfono de contacto:660152307
+
 Correo: cristina_aylagas@ymail.com
+
 Dirección: Travesía de Félix Sanz N*2, 
 San Agustín de Guadalix
 28710(Madrid)
