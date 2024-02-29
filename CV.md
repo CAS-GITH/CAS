@@ -55,26 +55,30 @@ Ansible
 Jenkins
 
 
-Analista de sistemas
+ANALISTA DE SISTEMAS
+
 Atos - Iberia (Cliente: PSA Peugeot - Grupo Stellantis ) (Banca)
 Mayo 2021 – Febrero 2022 (10 meses)
 Analista, integradora de sistemas trabajando con sistemas Linux, Web Servers (Tomcat), servidores virtuales con acceso a través de Citrix, Bases de datos nivel DBA, Oracle, muy SQL. 
 Trabajando con Eclipse, Dólar Universe, scripts, Shell Bash, Ansible, Jira
 
-Analista de sistemas
+ANALISTA DE SISTEMAS
+
 IBM (Cliente Banco Santander) (Equipos informáticos)
 Febrero 2017 - Marzo 2021 (4 años y 1 mes)
 Analista de sistemas en cliente Banco Santander, departamento de factoría de pagos, área de negocios globales, especialista en Infraestructuras y aplicaciones Java/J2EE soportadas sobre servidores GNU/Linux y en cluster. 
 Bases de datos, Oracle, MYSQL. Experiencia en aplicaciones de pagos y fondos entre cuentas, administración de aplicaciones internas ubicada en New York y productos en sistemas Polaris con desarrollo en la India, perfil orientado en Java/ J2EE, servidores Websphere v8.5.5.19, ,bases de datos, Oracle V9 , V12, MySQL Mejora y nivelación de entornos: Desarrollo, Preproducción y Producción., despliegue inicial y actualización de aplicaciones, tareas de análisis y tunning de recursos y configuración JDBC JMS/MQ.
 
 
-Administrador
+ANALISTA/ADMINISTRADORA DE SISTEMAS
+
 Telefónica (Telecomunicaciones)
 Abril 2016 - Enero 2017 (9 meses)
 Administrador / técnico senior de explotación de aplicaciones, nivel 3. Soluciones y mejoras a conexiones de red y redes externas e internas. Trabajando en Telefónica fija departamento Soporte GA ( Gerencia de Aplicaciones) Sistemas utilizados: Unix ( Sun Solaris,HP/UX ), sistemas Mainframe/Host, Oracle S.Q.L. , Programas de administración en BBDD (Sql-Developer, Sql-Navigator, Sql-plus, Toad.) Aplicaciones acceso a través de Citrix. Scripting ( automatización de tareas en menús de opciones y alarmas, shell de Unix ).Tecnologías:
 Host Unix Citrix Oracle virtual server SQL*Plus Toad Bases de datos Sql navigator SQL
 
-Administrador Websphere Application Server (WAS)
+ADMINISTRADORA WEBSPHERE SERVIDORES DE APLICACIONES (WAS)
+
 AXA-TECH ESPAÑA (Seguros)
 Octubre 2015 - Marzo 2016 (5 meses)
 Administrador Was /Jboss, entornos WebSphere, nivel 3, realizando las siguientes funciones: -Trabajo en equipo junto al equipo de desarrollo. 
@@ -84,7 +88,8 @@ Administrador Was /Jboss, entornos WebSphere, nivel 3, realizando las siguientes
 -Javascript (JMeter, Wsadmin, JACL o Jython). -Vmware. -Citrix. -Unix, Linux. -Siebel 6, Siebel 8.Tecnologias:
 Unix Citrix WebSphere VMware
 
-Administrador Middleware Apache /Jboss
+ADMINISTRADORA MIDDLEWARE APACHE/JBOSS
+
 HEWLETT-PACKARD (HP), cliente Carrefour. (Programación, Consultoria y otras Activ. informaticas)
 Julio 2015 - Agosto 2015 (1 mes)
 Administrador Middleware en entornos web apache y Tomcat realizando las siguientes funciones : 
@@ -96,14 +101,17 @@ Administrador Middleware en entornos web apache y Tomcat realizando las siguient
 Tecnologias:
 Elaboración de informes Seguridad Análisis SSL Archivos Aplicaciones Web Apache Middleware Gestión FTP Administración Tomcat
 
- Administrador de sistemas Unix,Linux,Sun Solaris .Siemens (Febrero 2015 - Julio 2015 (5 meses)
-Administrador de sistemas Unix (Aix, HP-UX ), Linux (Suse, Red Hat, Debian) y Sun Solaris, Veritas Volumen manager,vitualización ( Vmware,Xenserver ) en entornos productivos. 
+ ADMINISTRADORA DE SISTEMAS UNIX,LINUX,SUN SOLARIS
+ 
+ Siemens (Febrero 2015 - Julio 2015 (5 meses)
+ Administrador de sistemas Unix (Aix, HP-UX ), Linux (Suse, Red Hat, Debian) y Sun Solaris, Veritas Volumen manager,vitualización ( Vmware,Xenserver ) en entornos productivos. 
 Realizando pruebas del servicio y resolución de incidencias de 3º nivel en grupo de Unix, Linux AHS servers. 
 Conocimientos de productos Opensource ( Apache, Postfix, Qmail ). Tecnologías cluster para entornos Unix/Linux(Serviguard, Red-Hat cluster, Heartbeat) Administración de hardware ( servidores, switches de fibra, Racks, Chassis de Blade) Instalación, configuración y administración de SSOO. Seguridad (creación, mantenimiento y gestión de cuentas de acceso a los sistemas) Administración de espacio en disco ( asignación, monitorización y alarmas ). Instalación, adaptación y pruebas de parches. Implantación de planes de contingencia, (BRS). Itil.
 Tecnologias:
 Sun Unix Solaris Apache Pruebas Administración Seguridad Debian Gestión de cuentas HP-UX Unix (AIX) Mantenimiento VMware Clúster Linux
 
-Administrador de sistemas VMWare en entornos de producción.
+ADMINISTRADORA DE SISTEMAS VMWARE ENTORNOS PRODUCCIÓN
+
 HEWLETT-PACKARD (HP), cliente TELEFÓNICA. (Programación, Consultoria y otras Activ. informaticas)
 Julio 2013 - Noviembre 2014 (1 año y 4 meses)
 Administrador de sistemas VMWare en entornos de producción. 
@@ -113,7 +121,8 @@ Experiencia con virtualización en proyecto Cloud y VMWare : análisis, diseño 
 • Configuración e instalación de chasis HP C7000
 Windows Unix Linux VMware
 
-Administrador de sistemas Sun Solaris y Red Hat 
+ADMINISTRADORA DE SISTEMAS UNIX 
+Administrador de sistemas Oracle Sun Solaris y Linux Red Hat 
 BPR(cliente TELEFÓNICA) (Programación, Consultoria y otras Activ. informaticas)
 Septiembre 2010 - Mayo 2013 (2 años y 8 meses)
 Administrador de sistemas sobre plataformas Linux ( Red Hat ) y Sun Solaris en departamento de servidores virtuales F5 BIGIP, servidores de tráfico de carga de red,alta disponibilidad. 
@@ -135,7 +144,8 @@ Programas para la visualización de servicio y escalado de incidencias:
 - -Lotus Notes ( correo entre grupos internos de Telefónica)
 - Entorno Tecnológico: • F5 BIGIP • Vmware • IBM Blade • Sistemas Sun Solaris 8, 9 y 10 • Sistemas Linux Red Hat 9 • Sistemas Windows Server 2000-2003
 
-Administrador Linux en servidores Web Apache
+ADMINISTRADORA LINUX EN SERVIDORES WEB APACHE
+
 (HEWLETT-PACKARD (HP), (cliente TELEFÓNICA ) (Programación, Consultoria y otras Activ. informaticas)
 Mayo 2009 - Abril 2010 (11 meses)
 Trabajando como administrador en servidores Web Apache sobre plataforma Linux, realizando pruebas del servicio y resolución de incidencias de 2º/3nivel con los siguientes tipos de servidores:
@@ -163,6 +173,7 @@ sistemas de almacenamiento.
 - Consulta servidores Oracle, instrucciones: (select * from, update).
 - Conocimientos de Herramientas de monitorización: HP OVO OpenView Operations, Nagios / Cacti para monitorear los diferentes servicios y servidores Linux.
  
+GESTOR DE PROYECTOS SISTEMAS DE RED
 Gestor de proyectos en dirección de sistemas de red en la oficina técnica de proyectos
 (HEWLETT-PACKARD (HP), (cliente TELEFÓNICA ) (Programación, Consultoria y otras Activ. informaticas)
 Julio 2008 - Abril 2009 (9 meses)
@@ -184,7 +195,7 @@ NWF/Trabajos (Módulo de NWF que gestiona los Trabajos en Red llevados a cabo po
 Proxy-Web (GSRS) SCRT (Establecimiento de comunicación con los Departamentos que necesiten conexión a la Red de Transmisión) 
 CURSOR-Tarantella(Sistema de acceso a aplicaciones gráficas y de clientes pesados (Equivalente a Cytrix pero adaptada a entorno UNIX) Sistemas: OPTIMA, SGT, TEMIP
 
-
+TECNICO UNIX Y BBDD ORACLE
 Técnico de Unix y Oracle Control_M, HP OVO.Remedy + scripts de arranque y parada sobre máquinas Unix
 CGI (cliente VODAFONE ) Diciembre 2007 - Junio 2008 (6 meses)
 Trabajando como técnico en Unix y Oracle. 
@@ -193,8 +204,8 @@ Características : · Arquitectura consola-agente, monitorización ficheros de l
 Plataforma BMC Remedy (gestión de tickets ) -Scripts de arranque y parada sobre máquinas Unix. 
 -Manejo de Herramientas de Office y correo electrónico (Lotus Notes / Outlook).
 
-
-Técnico / administrador SOLARIS, Unix
+TECNICA/ADMINISTRADORA UNIX Y ORACLE SUN SOLARIS
+Técnica / administradora Unix Y Solaris
 SOLKIA GROUP ( INDRA ) 
 Marzo 2007 - Noviembre 2007 (8 meses)
 Técnico / administrador SOLARIS, Unix, NT, Ofimática, herramientas de gestión y control de la producción /Planificadores de Procesos. 
@@ -207,7 +218,7 @@ Experiencia con aplicaciones:
 - Sistemas operativos para entornos distribuidos / Windows NT
 -TSO-ISPF (lanzamiento de recibos diarios) Creación /gestión de procedimientos de explotación y gestión de incidencias de producción.
 
-Planificador Unix
+PLANIFICADORA UNIX
 PSS ( IBM ) 
 Diciembre 2006 - Febrero 2007 (2 meses)
 Trabajando en el grupo IBM realizando funciones de planificación y con herramienta de Sheduling Control-M sobre Unix, alarmas, planificación para despliegues en desarrollo, preproducción y producción , 
@@ -217,7 +228,8 @@ ejecución de labores preventivas y proactivas para asegurar la máxima disponib
 -liberación de espacio en filesystem 
 -reinico e instalación de agentes -gestión y seguimiento de incidencias.
 
-Operador de Batch /planificación Unix
+OPERADORA DE BATCH Y PLANIFICACIÓN UNIX
+
 Alma Technologies( TELEFONICA ) 
 Abril 2006 - Diciembre 2006 (8 meses)
 En el grupo de Telefónica (Movistar Móviles) como Operador de Batch /planificación trabajando con herramienta de Sheduling Control-M sobre Unix, accediendo por escritorio remoto con tecnología MetaFrame, de la compañía Citrix, 
@@ -226,7 +238,8 @@ realizando funciones de :
 -creación y planificación de cadenas Batch y subidas a producción, análisis de errores y alarmas proactivas en Unix shell scripting. 
 Manejo de Herramientas de Office y correo electrónico (Lotus Notes / Outlook)
 
-Técnico-operador sist. operativos IBM z/OS
+TECNICA/OPERADORA SISTEMAS OPERATIVOS IBM Z/OS
+
 INSA ( empresa del grupo IBM )
 Febrero 2004 - Marzo 2006 (2 años y 1 mes)
 Trabajando como técnico-operador de sistemas operativos IBM z/OS en ordenadores Mainframe, 
@@ -240,7 +253,8 @@ realizando las siguientes funciones:
 -Terminología y conceptos de la gestión de trabajos y sistemas implicados, control de trabajos y Salida impresa. 
 -Programas de utilidad de sistema operativo IBM z/OS en ordenadores Mainframe: (HOST, MVS-System/390 , subsistemas:HSM, RMM, TSO-ISPF )
 
-Soporte técnico y administración en Linux
+SOPORTE TECNICO Y ADMINISTRACION EN LINUX
+
 UNIRED, Grupo CMA (Servicios financieros)
 Enero 2001 - Febrero 2004 (3 años y 1 mes)
 CMA(consultoría, métodos de asesoramiento y Mercantil, sede en Sao Paulo, Brasil.) 
@@ -258,7 +272,8 @@ realizando las siguientes funciones:
 -Configuración básica del sistema y red TCP/IP, direcciones, máscaras, nombres y subredes. 
 Página Web: http: //www.uniredbolsa.com
 
-Operador MVS-System/390
+OPERADOR MVS-SYSTEM/390
+
 CIBERNOS OUTSOURCING, S.A (Programación, Consultoria y otras Activ. informaticas)
 Enero 1998 - Diciembre 2000 (2 años y 11 meses)
 Realizando en el Banco Español de Crédito las funciones:
