@@ -13,6 +13,7 @@ San Agustín de Guadalix
 EXPERIENCIA PROFESIONAL:
 
 ADMINISTRADORA DE SISTEMAS LINUX Y BBDD.
+
 El sector de la empresa es Industria aeroespacial y aviación
 Nombre de la empresa Cliente es AENA SME. S.A.
 ( fecha inicio Junio 2022 - Actualmente )
@@ -72,12 +73,14 @@ Bases de datos, Oracle, MYSQL. Experiencia en aplicaciones de pagos y fondos ent
 
 
 
+
 ANALISTA/ADMINISTRADORA DE SISTEMAS
 
 Telefónica (Telecomunicaciones)
 Abril 2016 - Enero 2017 (9 meses)
 Administrador / técnico senior de explotación de aplicaciones, nivel 3. Soluciones y mejoras a conexiones de red y redes externas e internas. Trabajando en Telefónica fija departamento Soporte GA ( Gerencia de Aplicaciones) Sistemas utilizados: Unix ( Sun Solaris,HP/UX ), sistemas Mainframe/Host, Oracle S.Q.L. , Programas de administración en BBDD (Sql-Developer, Sql-Navigator, Sql-plus, Toad.) Aplicaciones acceso a través de Citrix. Scripting ( automatización de tareas en menús de opciones y alarmas, shell de Unix ).Tecnologías:
 Host Unix Citrix Oracle virtual server SQL*Plus Toad Bases de datos Sql navigator SQL
+
 
 
 ADMINISTRADORA WEBSPHERE SERVIDORES DE APLICACIONES (WAS)
@@ -90,6 +93,7 @@ Administrador Was /Jboss, entornos WebSphere, nivel 3, realizando las siguientes
 -Despliegues de entornos Was en Int/Pre/ Pro. -Stop/start entornos Int/Pre/Pro -Borrado de filesystems. -Visualización de alarmas con Sitescope, AppDinamics. 
 -Javascript (JMeter, Wsadmin, JACL o Jython). -Vmware. -Citrix. -Unix, Linux. -Siebel 6, Siebel 8.Tecnologias:
 Unix Citrix WebSphere VMware
+
 
 
 ADMINISTRADORA MIDDLEWARE APACHE/JBOSS
@@ -106,6 +110,7 @@ Tecnologias:
 Elaboración de informes Seguridad Análisis SSL Archivos Aplicaciones Web Apache Middleware Gestión FTP Administración Tomcat
 
  
+ 
  ADMINISTRADORA DE SISTEMAS UNIX,LINUX,SUN SOLARIS
  
  Siemens (Febrero 2015 - Julio 2015 (5 meses)
@@ -114,6 +119,7 @@ Realizando pruebas del servicio y resolución de incidencias de 3º nivel en gru
 Conocimientos de productos Opensource ( Apache, Postfix, Qmail ). Tecnologías cluster para entornos Unix/Linux(Serviguard, Red-Hat cluster, Heartbeat) Administración de hardware ( servidores, switches de fibra, Racks, Chassis de Blade) Instalación, configuración y administración de SSOO. Seguridad (creación, mantenimiento y gestión de cuentas de acceso a los sistemas) Administración de espacio en disco ( asignación, monitorización y alarmas ). Instalación, adaptación y pruebas de parches. Implantación de planes de contingencia, (BRS). Itil.
 Tecnologias:
 Sun Unix Solaris Apache Pruebas Administración Seguridad Debian Gestión de cuentas HP-UX Unix (AIX) Mantenimiento VMware Clúster Linux
+
 
 
 ADMINISTRADORA DE SISTEMAS VMWARE ENTORNOS PRODUCCIÓN
@@ -128,6 +134,7 @@ Experiencia con virtualización en proyecto Cloud y VMWare : análisis, diseño 
 Windows Unix Linux VMware
 
 ADMINISTRADORA DE SISTEMAS UNIX 
+
 Administrador de sistemas Oracle Sun Solaris y Linux Red Hat 
 BPR(cliente TELEFÓNICA) (Programación, Consultoria y otras Activ. informaticas)
 Septiembre 2010 - Mayo 2013 (2 años y 8 meses)
@@ -149,6 +156,7 @@ Programas para la visualización de servicio y escalado de incidencias:
 - -Networkflow ( repositorio interno sobre trabajos programados)
 - -Lotus Notes ( correo entre grupos internos de Telefónica)
 - Entorno Tecnológico: • F5 BIGIP • Vmware • IBM Blade • Sistemas Sun Solaris 8, 9 y 10 • Sistemas Linux Red Hat 9 • Sistemas Windows Server 2000-2003
+
 
 ADMINISTRADORA LINUX EN SERVIDORES WEB APACHE
 
@@ -179,7 +187,9 @@ sistemas de almacenamiento.
 - Consulta servidores Oracle, instrucciones: (select * from, update).
 - Conocimientos de Herramientas de monitorización: HP OVO OpenView Operations, Nagios / Cacti para monitorear los diferentes servicios y servidores Linux.
  
+
 GESTOR DE PROYECTOS SISTEMAS DE RED
+
 Gestor de proyectos en dirección de sistemas de red en la oficina técnica de proyectos
 (HEWLETT-PACKARD (HP), (cliente TELEFÓNICA ) (Programación, Consultoria y otras Activ. informaticas)
 Julio 2008 - Abril 2009 (9 meses)
@@ -201,7 +211,9 @@ NWF/Trabajos (Módulo de NWF que gestiona los Trabajos en Red llevados a cabo po
 Proxy-Web (GSRS) SCRT (Establecimiento de comunicación con los Departamentos que necesiten conexión a la Red de Transmisión) 
 CURSOR-Tarantella(Sistema de acceso a aplicaciones gráficas y de clientes pesados (Equivalente a Cytrix pero adaptada a entorno UNIX) Sistemas: OPTIMA, SGT, TEMIP
 
+
 TECNICO UNIX Y BBDD ORACLE
+
 Técnico de Unix y Oracle Control_M, HP OVO.Remedy + scripts de arranque y parada sobre máquinas Unix
 CGI (cliente VODAFONE ) Diciembre 2007 - Junio 2008 (6 meses)
 Trabajando como técnico en Unix y Oracle. 
@@ -224,7 +236,9 @@ Experiencia con aplicaciones:
 - Sistemas operativos para entornos distribuidos / Windows NT
 -TSO-ISPF (lanzamiento de recibos diarios) Creación /gestión de procedimientos de explotación y gestión de incidencias de producción.
 
+
 PLANIFICADORA UNIX
+
 PSS ( IBM ) 
 Diciembre 2006 - Febrero 2007 (2 meses)
 Trabajando en el grupo IBM realizando funciones de planificación y con herramienta de Sheduling Control-M sobre Unix, alarmas, planificación para despliegues en desarrollo, preproducción y producción , 
@@ -233,6 +247,7 @@ ejecución de labores preventivas y proactivas para asegurar la máxima disponib
 -comprobación carga de red control-M en todas las máquinas ( CTM/Agent OK)
 -liberación de espacio en filesystem 
 -reinico e instalación de agentes -gestión y seguimiento de incidencias.
+
 
 OPERADORA DE BATCH Y PLANIFICACIÓN UNIX
 
@@ -243,6 +258,7 @@ realizando funciones de :
 -operación-planificación, experiencia en monitorización y seguimiento de eventos de problemas en procesos Job, analizar fallos en Batch, arreglarlos y realizar los relanzamientos. 
 -creación y planificación de cadenas Batch y subidas a producción, análisis de errores y alarmas proactivas en Unix shell scripting. 
 Manejo de Herramientas de Office y correo electrónico (Lotus Notes / Outlook)
+
 
 TECNICA/OPERADORA SISTEMAS OPERATIVOS IBM Z/OS
 
@@ -258,6 +274,7 @@ realizando las siguientes funciones:
 -(TSO-ISPF),( (Interactive System Productivity Facility) editor de pantalla, interfaz del Usuario con menús y diálogos para ejecutar herramientas de sistema bajo TSO(Time Sharing Option), es el intérprete de comandos interactivo y opcional en tiempo compartido del sistema operativo IBM,z/OS. 
 -Terminología y conceptos de la gestión de trabajos y sistemas implicados, control de trabajos y Salida impresa. 
 -Programas de utilidad de sistema operativo IBM z/OS en ordenadores Mainframe: (HOST, MVS-System/390 , subsistemas:HSM, RMM, TSO-ISPF )
+
 
 SOPORTE TECNICO Y ADMINISTRACION EN LINUX
 
@@ -277,6 +294,7 @@ realizando las siguientes funciones:
 -Manejo y configuración de terminales respaldo y recuperación de archivo. 
 -Configuración básica del sistema y red TCP/IP, direcciones, máscaras, nombres y subredes. 
 Página Web: http: //www.uniredbolsa.com
+
 
 OPERADOR MVS-SYSTEM/390
 
